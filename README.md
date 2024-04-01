@@ -1,2 +1,0 @@
-# gitteste
-Curso de Git
